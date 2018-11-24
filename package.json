@@ -1,0 +1,23 @@
+{
+  "name": "sass-BEM",
+  "version": "1.0.0",
+  "description": "Advanced CSS project with Sass &amp; BEM",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vvorobets/sass-BEM.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vvorobets/sass-BEM/issues"
+  },
+  "homepage": "https://github.com/vvorobets/sass-BEM#readme",
+  "devDependencies": {
+    "node-sass": "4.10.0"
+  }
+}
